@@ -18,7 +18,7 @@
 
 ​				流控制用于确定大致（approximate)的相位和绿灯方案。分为两部分，一个称为节点间的通行能力分配(capacity allocation)，主要计算相位差和绿信比； 另一个称为节点的网络协调(network coordination)，主要确定相位和大致的绿灯时长；
 
-​               ![image-20210618181522966](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210618181522966.png)
+​               ![image-20210618181522966](.\typora-user-images\image-20210618181522966.png)
 
 ​               在流控制方面，主要采用REALBAND（基于决策树）算法，解决区域层面的车队冲突问题。
 
@@ -26,7 +26,7 @@
 
 ​               另外，车队的概念，参考如下：
 
-​               ![image-20210618182242848](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210618182242848.png)
+​               ![image-20210618182242848](.\typora-user-images\image-20210618182242848.png)
 
 ​	3）intersection control problem；
 

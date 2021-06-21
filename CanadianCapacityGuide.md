@@ -14,33 +14,33 @@
 
 ## 延误和饱和度关键指标
 
-![image-20210616105650357](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616105650357.png)
+![image-20210616105650357](.\typora-user-images\image-20210616105650357.png)
 
 (P22)
 
 ## 饱和度评价过程
 
-![image-20210616110620964](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616110620964.png)
+![image-20210616110620964](.\typora-user-images\image-20210616110620964.png)
 
 (P24)
 
 ## 交叉口名词的英语描述
 
-![image-20210616111226197](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616111226197.png)
+![image-20210616111226197](.\typora-user-images\image-20210616111226197.png)
 
 ## 6个影响因素
 
-![image-20210616111738906](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616111738906.png)
+![image-20210616111738906](.\typora-user-images\image-20210616111738906.png)
 
 (P27)
 
 ## 优化的可选目标
 
-![image-20210616140133461](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616140133461.png)
+![image-20210616140133461](.\typora-user-images\image-20210616140133461.png)
 
 ## 交叉口设计的流程
 
-![image-20210616141630072](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616141630072.png)
+![image-20210616141630072](.\typora-user-images\image-20210616141630072.png)
 
 (P30)
 
@@ -48,19 +48,19 @@
 
 ## 到达流和离开流
 
-![image-20210616143448846](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616143448846.png)
+![image-20210616143448846](.\typora-user-images\image-20210616143448846.png)
 
 (P34)
 
 ## 车辆换算系数
 
-![image-20210616144531248](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616144531248.png)
+![image-20210616144531248](.\typora-user-images\image-20210616144531248.png)
 
 (P35)
 
 ## 评价时长的选择
 
-![image-20210616155654609](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616155654609.png)
+![image-20210616155654609](.\typora-user-images\image-20210616155654609.png)
 
 (P37)
 
@@ -136,23 +136,23 @@
 
 ### 相位组合和周期结构
 
-![image-20210616175225546](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616175225546.png)
+![image-20210616175225546](.\typora-user-images\image-20210616175225546.png)
 
 ### 相位组合的指导建议
 
-![image-20210616175027634](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616175027634.png)
+![image-20210616175027634](.\typora-user-images\image-20210616175027634.png)
 
 ​	(P75-P76)
 
 
 
-![image-20210616180521084](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210616180521084.png)
+![image-20210616180521084](.\typora-user-images\image-20210616180521084.png)
 
 ​	(P78)
 
 
 
-![image-20210617091559724](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617091559724.png)
+![image-20210617091559724](.\typora-user-images\image-20210617091559724.png)
 
 ### 公交优先控制的三种渐进式方法
 
@@ -170,13 +170,13 @@
 
 ### 方案选择式控制的优化方法（适用特殊事件）
 
-![image-20210617112610726](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617112610726.png)
+![image-20210617112610726](.\typora-user-images\image-20210617112610726.png)
 
 ​	P(96)
 
 ### 实时自适应控制描述（适用多变的交通流）
 
-​	![image-20210617135429826](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617135429826.png)
+​	![image-20210617135429826](.\typora-user-images\image-20210617135429826.png)
 
 ​	（P97）
 
@@ -184,7 +184,7 @@
 
 ### 感应式控制的最佳周期
 
-​	![image-20210617142246529](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617142246529.png)
+​	![image-20210617142246529](.\typora-user-images\image-20210617142246529.png)
 
 ​	
 
@@ -192,13 +192,13 @@
 
 ## 最小和最优的周期时长
 
-![image-20210617161010634](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617161010634.png)
+![image-20210617161010634](.\typora-user-images\image-20210617161010634.png)
 
 ​	（P106）
 
 ## 周期时长与延误、通行能力关系
 
-![image-20210617161120137](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617161120137.png)
+![image-20210617161120137](.\typora-user-images\image-20210617161120137.png)
 
 ​	（P107）
 
@@ -206,31 +206,31 @@
 
 ## 绿灯分配的方法
 
-![image-20210617162441689](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617162441689.png)
+![image-20210617162441689](.\typora-user-images\image-20210617162441689.png)
 
 ​	（P108）
 
 ## 协调信号考虑的因素
 
-![image-20210617165042252](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617165042252.png)
+![image-20210617165042252](.\typora-user-images\image-20210617165042252.png)
 
 ​	（P113）
 
 ## 评价指标
 
-![image-20210617172705419](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617172705419.png)
+![image-20210617172705419](.\typora-user-images\image-20210617172705419.png)
 
 ​	（P115）
 
 ### 延误的计算
 
-![image-20210617174129576](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617174129576.png)
+![image-20210617174129576](.\typora-user-images\image-20210617174129576.png)
 
 ​	（P122）
 
 ### 排队长度（排队远端）计算
 
-![image-20210617180053993](C:\Users\lixiaohui\AppData\Roaming\Typora\typora-user-images\image-20210617180053993.png)
+![image-20210617180053993](.\typora-user-images\image-20210617180053993.png)
 
 
 
